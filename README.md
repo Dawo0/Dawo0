@@ -43,7 +43,7 @@
   📫 How to reach me: <a href='mailto:business@dawoo.tech'>business@dawoo.tech</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> Thank you for your attention!
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/Dawo0"></a> Thank you for your attention!
 </p>
   
 </details>
